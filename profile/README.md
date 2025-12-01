@@ -1,6 +1,5 @@
 # AstraOne – OpenNebula
 
-<img src="https://opennebula.io/wp-content/uploads/2020/04/opennebula-logo-blue.png" alt="OpenNebula Logo" width="260"/>
 <img src="https://github.com/AstraOne-Cloud.png" alt="AstraOne Logo" width="260"/>
 
 ## Description
