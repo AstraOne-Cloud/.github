@@ -2,10 +2,10 @@
 
 # Astra-One Cloud - Une platforme d’infrastructure cloud auto-hébergée
 
-<p><img title="jj logo" src="https://github.com/AstraOne-Cloud.png
+<p><img title="jj logo" src="assets/logo.jpg
 " width="320" height="320"></p>
 
-
+</div>
 
 ## Introduction
 
