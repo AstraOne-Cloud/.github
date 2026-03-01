@@ -28,7 +28,7 @@ Astra-One Cloud ne doit pas être compris comme un simple cluster de machines vi
 
 ## Architecture
 
-> [!INFORMATION]  
+> [!IMPORTANT]  
 > Par ailleurs, toutes les VM utilisées sont sous Rocky Linux 9, RHEL 10 n’étant pas encore supporté par OpenNebula.
 
 ![preview](assets/preview.png)
