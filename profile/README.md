@@ -20,6 +20,7 @@ Astra-One Cloud ne doit pas être compris comme un simple cluster de machines vi
 ---
 
 ## Objectif :
+
 - Se former sur les infrastructure cloud
 - Mieux comprendre le fonctionnement d'un hyperviseur et de la virtualisation
 - Apprendre à gérer un stockage SAN en environnement virtualisé
@@ -68,11 +69,9 @@ Personnalisation de l’interface OpenNebula :
 ---
 
 ## Documentation utilisée
-
 La conception et le déploiement d’Astra-One Cloud s’appuient sur les documentations officielles suivantes :
 
 ### HashiCorp Vault
-
 - Documentation officielle :  
     [https://developer.hashicorp.com/vault/docs](https://developer.hashicorp.com/vault/docs)
     
@@ -86,13 +85,11 @@ La conception et le déploiement d’Astra-One Cloud s’appuient sur les docume
 ---
 
 ### Rocky Linux
-
 Système d’exploitation pour les nœuds Frontend, Hyperviseurs, Vault et San.
 - Documentation officielle :  
 	[https://docs.rockylinux.org/](https://docs.rockylinux.org/)
 
 ---
 ### OpenNebula
-
 - Documentation officielle :  
 	[https://opennebula.io/](https://opennebula.io/)
