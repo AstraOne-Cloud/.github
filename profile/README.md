@@ -53,19 +53,17 @@ Astra-One Cloud repose sur une architecture modulaire :
 
 ## À suivre :
 
-Mise en place de configurations Ansible :
+Création de [fichier cloud-init](https://github.com/AstraOne-Cloud/astra_cloud-init) :
+- Accélérer la mise en place de nouveaux nodes
 
+Mise en place de [configurations Ansible](https://github.com/AstraOne-Cloud/astra_ansible_configuration) :
 - Permettant la mise en place simplifiée de l’infrastructure.
-    
 - Facilitant l’augmentation du nombre de nœuds back-end.
-    
 - Limitant les erreurs humaines lors de l’installation des machines.
-    
 
 Personnalisation de l’interface OpenNebula :
-
 - Personnaliser davantage le projet.
-    
+
 
 ---
 
@@ -90,7 +88,6 @@ La conception et le déploiement d’Astra-One Cloud s’appuient sur les docume
 ### Rocky Linux
 
 Système d’exploitation pour les nœuds Frontend, Hyperviseurs, Vault et San.
-
 - Documentation officielle :  
 	[https://docs.rockylinux.org/](https://docs.rockylinux.org/)
 
