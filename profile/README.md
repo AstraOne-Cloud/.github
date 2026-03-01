@@ -56,6 +56,8 @@ Astra-One Cloud repose sur une architecture modulaire :
 
 Création de [fichier cloud-init](https://github.com/AstraOne-Cloud/astra_cloud-init) :
 - Accélérer la mise en place de nouveaux nodes
+- Permet l'installation automatique d'Ansible
+- Permet le paramétrage des comptes
 
 Mise en place de [configurations Ansible](https://github.com/AstraOne-Cloud/astra_ansible_configuration) :
 - Permettant la mise en place simplifiée de l’infrastructure.
